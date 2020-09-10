@@ -17,6 +17,6 @@ The abilities of this package will include-
 **Expected Deadline:** 20-09-20
 
 **Contributors**
-[<Naman Jain>](https://github.com/naman-jain-1403)
-[<Chhavi Trivedi>](https://github.com/Chhavi-Trivedi)
+[Naman Jain](https://github.com/naman-jain-1403)
+[Chhavi Trivedi](https://github.com/Chhavi-Trivedi)
 
