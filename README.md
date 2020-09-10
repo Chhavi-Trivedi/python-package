@@ -12,11 +12,11 @@ The abilities of this package will include-
 
 **Number of member/s required:** 2
 
-**Start Date:** 11-08-20
+**Start Date:** 11-08-2020
 
-**Expected Deadline:** 20-09-20
+**Expected Deadline:** 20-09-2020
+### Contributors
+- [Naman Jain  ](https://github.com/naman-jain-1403)
+- [Chhavi Trivedi ](https://github.com/Chhavi-Trivedi)
 
-**Contributors**
-[Naman Jain](https://github.com/naman-jain-1403)
-[Chhavi Trivedi](https://github.com/Chhavi-Trivedi)
 
